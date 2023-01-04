@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 /Paddleocr/dataset
 
-## 6) download pretrained model and load model
+## 6) download pretrained model
 
 mkdir pretrained_model
 
