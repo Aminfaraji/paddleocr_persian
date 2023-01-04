@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 [dataset shotor](https://drive.google.com/file/d/1kj8wQ45R63Gyp-Qv2mJaa1C4Y0u1JgEC/view?usp=sharing, https://drive.google.com/file/d/1zrZUJjeJgz0iAVeK8QmMZVAUdPDSpman/view?usp=sharing).
 
-## 7) download pretrained model from google drive
+# 7) download pretrained model from google drive
 
 mkdir pretrained_model
 
