@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 
 ## 6) download dataset shotor from google drive 
- [Dataset Shotor] (https://drive.google.com/file/d/1kj8wQ45R63Gyp-Qv2mJaa1C4Y0u1JgEC/view?usp=sharing, https://drive.google.com/file/d/1zrZUJjeJgz0iAVeK8QmMZVAUdPDSpman/view?usp=sharing)
+[Dataset Shotor](https://drive.google.com/file/d/1kj8wQ45R63Gyp-Qv2mJaa1C4Y0u1JgEC/view?usp=sharing, https://drive.google.com/file/d/1zrZUJjeJgz0iAVeK8QmMZVAUdPDSpman/view?usp=sharing).
 
 ## 6) download pretrained model
 
