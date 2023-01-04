@@ -27,8 +27,8 @@ pip install -r requirements.txt
 /Paddleocr/dataset
 
 ## 6) download pretrained model and load model
-mkdir pretrained_model
-cd pretrained_model/
-wget  https://paddleocr.bj.bcebos.com/PP-OCRv3/multilingual/arabic_PP-OCRv3_rec_train.tar
-tar -xvf "arabic_PP-OCRv3_rec_train.tar"
-rm -rf arabic_PP-OCRv3_rec_train.tar
+*mkdir pretrained_model
+*cd pretrained_model/
+*wget  https://paddleocr.bj.bcebos.com/PP-OCRv3/multilingual/arabic_PP-OCRv3_rec_train.tar
+*tar -xvf "arabic_PP-OCRv3_rec_train.tar"
+*rm -rf arabic_PP-OCRv3_rec_train.tar
