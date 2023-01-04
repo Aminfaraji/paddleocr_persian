@@ -1,6 +1,6 @@
 # paddleocr_persian
 
-###This repository to run paddleocr on the Shotor dataset.
+### This repository to run paddleocr on the Shotor dataset.
 
 
 ## Steps to install the paddleocr package dependency:
