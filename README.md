@@ -37,6 +37,6 @@ mkdir pretrained_model
 
 cd pretrained_model/
 
-https://drive.google.com/drive/folders/1-f0f_KfrbdWBVNYRDsn6ov4azp5VVLAQ?usp=sharing
+https://drive.google.com/file/d/18wR7X2zDEdWBHBTPXSJT5S5L1_O7rmKh/view?usp=sharing
 
 ### The required files are in the output folder
